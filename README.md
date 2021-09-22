@@ -5,6 +5,8 @@
 - 🌱 I’m currently working on a project Twiker that is a twitter library based on tweepy. Also, I'm currently learning android development and new things.
 - 📫 How to reach me: roberthoodhood2@gmail.com
 - 💻 I do all my work on my Fedora,Kali,Arch System.Kali for pentesting,Fedora for developing and arch for deep linux learning.
+- :smirk:I have also worked as a red team guy in hacking world.
+- :man_technologist:I also love to hack the stuff as i am a part of hacking world :earth_asia:.
 
 
 <h3 align="left">Languages and Tools:</h3>
