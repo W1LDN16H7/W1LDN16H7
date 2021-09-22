@@ -59,7 +59,7 @@
 <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> 
 
   
-<a href="https://www.jetbrains.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg" alt="intellij" width="80" height="80"/> </a> 
 
 <b>   etc... </b> </p>
 
