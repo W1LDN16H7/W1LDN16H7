@@ -2,7 +2,7 @@
 
 
 # 💎 I am a developer,hacker and a linux lover
-- 🌱 I’m currently working on a project Twiker that is a twitter library based on tweepy. Also, I'm currently learning android development and new things.
+- 🌱 I’m currently working on a project Twiker that is a twitter library based on tweepy. Also, I'm currently learning android development and learning new things.
 - 📫 How to reach me: roberthoodhood2@gmail.com
 - 💻 I do all my work on my Fedora,Kali,Arch System.Kali for pentesting,Fedora for developing and arch for deep linux learning.
 - :smirk:I have also worked as a red team guy in hacking world.
