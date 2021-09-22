@@ -14,6 +14,7 @@
 
  </p>
 
+[![TheKnigt's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1LDN16H7)](https://github.com/W1LDN16H7/github-readme-stats)
 
 
 <!--
