@@ -17,7 +17,7 @@
 
 <h4 align="left">State and Status:</h4>
 
-[![TheKnigt's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1LDN16H7&theme=radical&show_icons=true)](https://github.com/W1LDN16H7/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W1LDN16H7&theme=radical&show_icons=true)](https://github.com/W1LDN16H7/github-readme-stats)
+[![TheKnigt's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1LDN16H7&theme=radical&show_icons=true)](https://github.com/W1LDN16H7/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W1LDN16H7&theme=radical&show_icons=true)](https://github.com/W1LDN16H7/github-readme-stats) <p> <b>Visitors count</b> <br> <img src="https://profile-counter.glitch.me/W1LDN16H7/count.svg" alt="Visitors count"> </p>
 
 <!--
 **W1LDN16H7/W1LDN16H7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
