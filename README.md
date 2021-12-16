@@ -1,6 +1,6 @@
 # Hi there👋
 
-&nbsp; &nbsp; 💎 **I am Kapil also known as TheKnight**
+&nbsp;💎 **I am Kapil also known as TheKnight**
 - 💻 I am a developer,student and a linux lover
 - 🌱 I'm currently learning android development </b> and learning new things, Also I’m currently working on a project Twiker that is a twitter library based on tweepy.
 - 📫 How to reach me: roberthoodhood2@gmail.com
