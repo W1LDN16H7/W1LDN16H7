@@ -1,7 +1,7 @@
 # Hi there👋
 
 &nbsp;💎 **I am Kapil also known as TheKnight**
-- 💻 I am a developer,student and a linux lover
+- 💻 I am a developer,student,Marvel fan and a linux lover
 - 🌱 I'm currently learning android development </b> and learning new things, Also I’m currently working on a project Twitter bot that is  based on tweepy.
 - 📫 How to reach me: roberthoodhood2@gmail.com
 - 💻 I do all my work on my Fedora,Kali,Arch System.Kali for pentesting,Fedora and Zorin for developing and arch for deep linux learning.
