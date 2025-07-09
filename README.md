@@ -17,8 +17,8 @@ I'm a passionate **Full Stack Developer** and **Open Source Enthusiast** who lov
 - 🌐 **Developing:** Full stack web applications using modern technologies
 - 🤖 **Exploring:** AI and machine learning integration in practical applications
 - 💡 **Creating:** Open source tools and productivity solutions that people actually use
-- 📧 **Contact:** kapil.campus@gmail.com | kapilkumar.k9976@gmail.com
-- 🌐 **Portfolio:** [portfolio-chi-pied-26.vercel.app](https://portfolio-chi-pied-26.vercel.app/)
+- 📧 **Contact:** roberthoodhood2@gmail.com
+
 
 ### 🚀 **What I Love Doing:**
 - 📱 **Android Development** - Building native apps with Kotlin and modern architecture patterns
