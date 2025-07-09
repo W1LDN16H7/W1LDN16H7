@@ -13,7 +13,7 @@
 I'm a passionate **Full Stack Developer** and **Open Source Enthusiast** who loves building practical solutions for real problems. I enjoy creating applications, mobile apps, and tools that genuinely help people in their daily lives.
 
 ### 🎯 **What I'm Working On:**
-- 🔭 **Building:** [Scrolla](https://scrolla-site.vercel.app/) - An Android productivity app that helps users scroll hands-free
+- 🔭 **Building:**  AI/ML and web application and opensource tools
 - 🌐 **Developing:** Full stack web applications using modern technologies
 - 🤖 **Exploring:** AI and machine learning integration in practical applications
 - 💡 **Creating:** Open source tools and productivity solutions that people actually use
@@ -27,126 +27,6 @@ I'm a passionate **Full Stack Developer** and **Open Source Enthusiast** who lov
 - 🤖 **AI Integration** - Finding ways to make AI useful in everyday applications
 - 🔧 **Open Source Contribution** - Contributing to community projects and sharing my own work
 
-## 🎯 Featured Projects
-
-### 🏆 **Production-Ready Applications**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 📱 **Scrolla - Android Productivity App**
-> Hands-free auto-scrolling app with content blocking features
-
-**🚀 Impact:** A featured productivity app that Android users actually find helpful
-- Auto-scroll any app with customizable speed settings
-- Floating control button for easy access while using other apps  
-- Block reels and shorts in social media apps to reduce distractions
-- Beautiful light and dark theme support
-- Quick access tiles right in your notification panel
-
-**🔗 Links:** [Live Demo](https://scrolla-site.vercel.app/) | [Download](https://github.com/scrolla-app/scrolla/releases) | [Support](https://buymeacoffee.com/kapil7.kumar)
-
-**Tech Stack:** `Android` `Kotlin` `Material Design` `Accessibility APIs`
-
-</td>
-<td width="50%">
-
-#### 🌐 **WriteOn Social Platform**
-> Social platform built with modern web technologies
-
-**🚀 Impact:** Full-stack social application that I built to learn modern web development
-- Clean and modern React frontend interface
-- Robust Node.js backend API
-- Real-time messaging features for user interaction
-- Complete user authentication and profile management
-
-**🔗 Links:** [Live Demo](https://writeon-social.vercel.app/) | [GitHub](https://github.com/W1LDN16H7/writeon-social)
-
-**Tech Stack:** `React` `Node.js` `MongoDB` `Socket.io` `JWT`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🏗️ **DevOps Infrastructure Learning**
-> Hands-on infrastructure projects for learning DevOps practices
-
-**🚀 Impact:** My journey into DevOps and infrastructure automation
-- Docker containerization for consistent deployments
-- Basic Kubernetes setup and orchestration
-- CI/CD pipeline creation and automation
-- Infrastructure as code experiments
-
-**🔗 Links:** [GitHub](https://github.com/W1LDN16H7/k8s-monitoring-stack)
-
-**Tech Stack:** `Docker` `Kubernetes` `Linux` `Git` `YAML`
-
-</td>
-<td width="50%">
-
-#### 🚀 **Web Development Learning Projects**
-> Various web projects I've built while learning modern technologies
-
-**🚀 Impact:** Building my full-stack development skills through practice
-- React component development and state management
-- REST API integration and design patterns
-- Database connectivity and data modeling
-- Responsive UI/UX design principles
-
-**🔗 Links:** [GitHub](https://github.com/W1LDN16H7/kong-microservices-platform)
-
-**Tech Stack:** `React` `JavaScript` `CSS` `HTML` `REST APIs`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 💰 **Finura - AI Financial Analyzer**
-> AI-powered financial document analysis tool
-
-**🚀 Impact:** Practical AI implementation for financial analysis and learning
-- PDF document processing and text extraction
-- OpenAI API integration for intelligent analysis
-- Clean and user-friendly web interface
-- Secure Google Authentication system
-
-**🔗 Links:** [Live Demo](https://finura-one.vercel.app/) | [GitHub](https://github.com/W1LDN16H7/finura)
-
-**Tech Stack:** `Node.js` `MongoDB` `OpenAI API` `Google Auth` `PDF.js`
-
-</td>
-<td width="50%">
-
-#### 📄 **Resume Organizer & Analyzer**
-> Resume management system with AI features
-
-**🚀 Impact:** Personal project where I experimented with AI integration
-- Document upload and secure storage
-- Basic text analysis and parsing
-- Smart category organization system
-- Fast and efficient search functionality
-
-**🔗 Links:** [Live Demo](https://resume-holder.vercel.app/) | [GitHub](https://github.com/W1LDN16H7/resume-holder)
-
-**Tech Stack:** `TypeScript` `React` `MongoDB` `Vite`
-
-</td>
-</tr>
-</table>
-
-### 🛠️ **Additional Projects**
-
-#### Web Applications  
-- 💳 **[UPI QR Generator](https://upi-qr-ashen.vercel.app/)** - A simple React app for generating UPI QR codes quickly
-- 🎨 **[Portfolio Website](https://portfolio-chi-pied-26.vercel.app/)** - My personal portfolio built with modern web technologies
-- 🏢 **[DevLab Website](https://dev-lab-blush.vercel.app/)** - A business website showcasing development services
-
-#### Learning & Experiments
-- 🛠️ **[DevOps Learning](https://github.com/W1LDN16H7/devops-automation-pipeline)** - Exploring CI/CD and automation practices
-- 📚 **Various Experiments** - Small projects where I test out new technologies and ideas
 
 ## 🛠️ Technologies I Use
 
@@ -244,30 +124,7 @@ I'm a passionate **Full Stack Developer** and **Open Source Enthusiast** who lov
 
 </div>
 
-## 💼 Open Source & Learning Journey
 
-### 🎓 **Academic Background**
-
-<table>
-<tr>
-<td width="50%">
-
-#### **🎯 Master of Computer Applications (MCA)**
-**IFTM University** | *Aug 2024 - Present*
-- Currently pursuing advanced computing and software engineering
-- Focusing on software engineering principles and system design
-
-</td>
-<td width="50%">
-
-#### **💻 Bachelor of Science - Computer Science (Hons.)**
-**Teerthanker Mahaveer University** | *July 2019 - Aug 2022*
-- **CGPA:** 73.10%
-- Specialized in software development and data structures
-
-</td>
-</tr>
-</table>
 
 ### 🌱 **What I'm Learning Right Now**
 - 📱 **Advanced Android Development** - Exploring Jetpack Compose and modern architecture patterns
@@ -277,93 +134,16 @@ I'm a passionate **Full Stack Developer** and **Open Source Enthusiast** who lov
 
 ## 🤝 Let's Connect & Collaborate
 
-<div align="center">
-
-### **🌐 Find Me Online**
-
-<table>
-<tr>
-<td align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/the-knight)
-**Professional Network**
 
 </td>
+
 <td align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/W1LDN16H7)
-**Code Repository**
-
-</td>
-<td align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://portfolio-chi-pied-26.vercel.app/)
-**My Work**
-
-</td>
-<td align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/scrolla_app)
-**Updates**
-
-</td>
-</tr>
-</table>
-
-### **📧 Contact Information**
-
-<table>
-<tr>
-<td align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapil.campus@gmail.com)
-**kapil.campus@gmail.com**
-
-</td>
-<td align="center">
-
-[![Email](https://img.shields.io/badge/Work_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kapilkumar.k9976@gmail.com)
-**kapilkumar.k9976@gmail.com**
-
-</td>
 <td align="center">
 
 
 
-</td>
-</tr>
-</table>
 
-### **💼 Professional Services**
-
-<div align="center">
-
-| 🚀 **Mobile Development** | 📱 **Full Stack Development** | 🤖 **AI Integration** |
-|:---:|:---:|:---:|
-| Android Apps with Kotlin | React/Node.js Applications | OpenAI API Integration |
-| Material Design UI | REST API Development | Document Processing |
-| Accessibility Features | Database Design | Intelligent Analysis |
-| App Store Deployment | Responsive Web Design | Machine Learning Basics |
-
-</div>
-
-### **🎯 I'm Currently Open For:**
-- 💼 **Open source collaborations** on projects that interest me and can help others
-- 🤝 **Freelance opportunities** involving web development or mobile app projects
-- 🔧 **Contributing** to developer tools and productivity applications
-- 📚 **Learning opportunities** where I can grow and work with new technologies
-
-</div>
-
-## 💝 Support My Open Source Work
-
-<div align="center">
-
-If you find my projects helpful or want to support my open source contributions:
-
-<table>
-<tr>
-<td align="center">
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kapil7.kumar)
 **Support Development**
