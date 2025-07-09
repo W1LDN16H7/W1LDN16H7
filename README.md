@@ -170,39 +170,7 @@ I'm a passionate **Full Stack Developer** and **Open Source Enthusiast** who lov
 
 <div align="center">
 
-### **💭 My Philosophy**
 
-> *"Building useful solutions that solve real problems, one commit at a time."*
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🚀 **Innovation**
-I love exploring new technologies and finding creative ways to solve problems
-
-</td>
-<td align="center" width="33%">
-
-### 🤝 **Collaboration** 
-I believe in the power of open source and learning from the community
-
-</td>
-<td align="center" width="33%">
-
-### 📈 **Growth**
-Always learning something new and helping others on their coding journey
-
-</td>
-</tr>
-</table>
-
-### **📊 Profile Analytics**
-
-![Profile Views](https://profile-counter.glitch.me/W1LDN16H7/count.svg)
-
-![Followers](https://img.shields.io/github/followers/W1LDN16H7?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/W1LDN16H7?style=for-the-badge&color=yellow)
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
