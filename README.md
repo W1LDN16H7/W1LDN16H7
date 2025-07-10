@@ -6,14 +6,14 @@
 
 </div>
 
-> **An Engineer | DevOps | Open Source Contributor | Tech Enthusiast | Linux Master**
+> **An Engineer | DevOps | Open Source Dev/Contributor | Tech Enthusiast | Linux Enthusiast**
 
 ## 🚀 About Me
 
 I'm a passionate **Engineer and a Developer** and **Open Source Enthusiast** who loves building practical solutions for real problems. I enjoy creating applications, mobile apps, and tools that genuinely help people in their daily lives.
 
 ### 🎯 **What I'm Working On:**
-- 🔭 **Building:**  AI/ML and web application and opensource tools.
+- 🔭 **Building:**  AI/ML and Automation applications including web,desktop and mobile and opensource tools.
 - 🌐 **Developing:** Full stack web applications using modern technologies.
 - 🤖 **Exploring:** AI and machine learning integration in practical applications.
 - 💡 **Creating:** Open source tools and productivity solutions that people actually use.
@@ -21,11 +21,12 @@ I'm a passionate **Engineer and a Developer** and **Open Source Enthusiast** who
 
 
 ### 🚀 **What I Love Doing:**
-- 📱 **Android Development** - Building native apps with Kotlin and modern architecture patterns
-- 🌐 **Full Stack Web Development** - Creating responsive and interactive web applications
-- 🛠️ **DevOps & Infrastructure** - Learning CI/CD pipelines and cloud deployments (still growing here!)
+- 🌐 **Full Stack Web Development** - Creating responsive and interactive web applications using springboot,react and nodejs and deplying to k8s and cloud.
+- 🛠️ **DevOps & Infrastructure** - Building CI/CD pipelines and cloud deployments and building, managing infrastructure as code..
 - 🤖 **AI Integration** - Finding ways to make AI useful in everyday applications
-- 🔧 **Open Source Contribution** - Contributing to community projects and sharing my own work
+- 🔧 **Open Source Contribution** - Contributing to community projects and sharing my own work and creating awesome tools.
+- 📱 **Android Development** - Building native apps with Kotlin and java and modern architecture patterns
+
 
 ## 📊 GitHub Analytics & Performance
 
@@ -71,10 +72,11 @@ I'm a passionate **Engineer and a Developer** and **Open Source Enthusiast** who
 
 
 ### 🌱 **What I'm Learning Right Now**
+- 🤖 **AI/ML Integration** - Learning how to implement practical AI features in real applications and exploring LLMs and architecture and usage.
+- 🤖 **Prompt Engineering** - Learning how to implement and craft better LLMs prompts for better results and desired outputs.
+- 🌐 **AI powered web apps:** - Full stack web applications using modern technologies and integrating llms using langchain and providing a better results .
 - 📱 **Advanced Android Development** - Exploring Jetpack Compose and modern architecture patterns
-- 🤖 **AI/ML Integration** - Learning how to implement practical AI features in real applications
-- ☁️ **Cloud Technologies** - Understanding deployment, scaling, and cloud infrastructure
-- 🏗️ **DevOps Practices** - CI/CD pipelines, automation, and infrastructure as code
+
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -90,13 +92,13 @@ I'm a passionate **Engineer and a Developer** and **Open Source Enthusiast** who
 
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kapil7.kumar)
-**Support Development**
+
 
 </td>
 <td align="center">
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/W1LDN16H7)
-**GitHub Sponsors**
+
 
 </td>
 </tr>
