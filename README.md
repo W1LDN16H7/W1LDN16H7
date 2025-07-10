@@ -6,17 +6,17 @@
 
 </div>
 
-> **Full Stack Developer | DevOps Learner | Open Source Contributor | Tech Enthusiast**
+> **An Engineer | DevOps | Open Source Contributor | Tech Enthusiast | Linux Master**
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** and **Open Source Enthusiast** who loves building practical solutions for real problems. I enjoy creating applications, mobile apps, and tools that genuinely help people in their daily lives.
+I'm a passionate **Engineer and a Developer** and **Open Source Enthusiast** who loves building practical solutions for real problems. I enjoy creating applications, mobile apps, and tools that genuinely help people in their daily lives.
 
 ### 🎯 **What I'm Working On:**
-- 🔭 **Building:**  AI/ML and web application and opensource tools
-- 🌐 **Developing:** Full stack web applications using modern technologies
-- 🤖 **Exploring:** AI and machine learning integration in practical applications
-- 💡 **Creating:** Open source tools and productivity solutions that people actually use
+- 🔭 **Building:**  AI/ML and web application and opensource tools.
+- 🌐 **Developing:** Full stack web applications using modern technologies.
+- 🤖 **Exploring:** AI and machine learning integration in practical applications.
+- 💡 **Creating:** Open source tools and productivity solutions that people actually use.
 - 📧 **Contact:** roberthoodhood2@gmail.com
 
 
@@ -64,10 +64,6 @@ I'm a passionate **Full Stack Developer** and **Open Source Enthusiast** who lov
 </td>
 </tr>
 </table>
-
-### **🏆 GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=W1LDN16H7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
 
 
 </div>
